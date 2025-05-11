@@ -12,7 +12,7 @@
 		"lib/unitProto.js": "f85bfbf6111326f91e3553a2ce8710805d8e5fa2ed91a31bf6c16c9b3c6bd018",
 		"lib/unitState.js": "c917a87e648e06f5988e94dc1793a58a555f60d105301be936b6c82009d2d150",
 		"lib/unitTracker.js": "f7426397562ff5b4ffe88f069131d7a051a88eeb96b1bcb9a59862ea2fa74081",
-		"module.json": "4b95ab9f3d531c2e2c2bb8c2919f99f2aa9f23b70bac498032b065bf541f0bf8",
+		"module.json": "bd8d745aca85e4d10f9e05f4ceef2df0d479aa058287fe9953f0cc545fd553c4",
 		"node_modules/rfdc/LICENSE": "1ce941682a96c7b898ecd125d0f2e22319758ea6f3adbf498a65d649b0f3f7dd",
 		"node_modules/rfdc/index.js": "190dc068bd98e2f0669de0cbd6c6535578df35176bbcde4cfc1cb7f494cc2da0",
 		"node_modules/rfdc/package.json": "87e38a1b6e4cdc368e32085557c26921362631d41a2b26ed28691dc9161ecf4d",
